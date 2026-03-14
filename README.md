@@ -38,5 +38,3 @@ The design is **mobile-friendly, lightweight, and easy to customize**.
 
 ---
 
-## 📂 Project Structure
-
